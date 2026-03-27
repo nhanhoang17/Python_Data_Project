@@ -62,7 +62,7 @@ fig.suptitle('Likelihood of Skills Requested in US Job Postings',fontsize=15)
 fig.tight_layout()
 ```
 ### Results
-![Visualization of top skills](3_Project/images/skill%20demand.png)
+![Visualization of top skills](3_Project/images/skill_demand.png)
 ### Insights
 - Python is a versatile skill, highly demanded across all three roles, but most prominently for Data Scientists (72%) and Data Engineers (65%).
 
@@ -89,7 +89,7 @@ plt.show()
 ```
 ### Results
 
-![Trending Top Skills for Data Analysts in the US](3_Project/images/trending%20top%20skills.png)
+![Trending Top Skills for Data Analysts in the US](3_Project/images/trending.png)
 
 
 
